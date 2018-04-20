@@ -127,8 +127,11 @@ A id needs a other id or an `!important` statement to counter it.
 
 So, don't use ID's
 
+### Sources
 
 I read a lot of other style guides and processes surrounding them and borrowed from them:
 - [cssguidelin.es](https://cssguidelin.es/)
 - [Tait brown](http://taitems.github.io/Front-End-Development-Guidelines/)
-- [Brad Frost](http://bradfrost.com/blog/post/frontend-guidelines-exercise/)
+- [Brad Frost](http://bradfrost.com/blog/post/frontend-guidelines-exercise
+  - [isobar](https://isobar-us.github.io/code-standards/)
+  - [gitlab](https://docs.gitlab.com/ee/development/fe_guide/style_guide_scss.html)
