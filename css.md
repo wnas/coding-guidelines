@@ -102,9 +102,6 @@ Writing code is hard, writing readable code is even harder
   While I enjoy a puzzle this is not clear right away
   Consider using a class instead.
 
-### Indentation
-Using a consistent indentation across all of your files makes it easier to read. Set common rule in your editors using a [EditorConfig](http://editorconfig.org/) file.
-
 ### Linting
 Checking code is boring, that is why we have computers. Use [stylelint](https://stylelint.io/) to catch the common mistakes. It also helps enormously in keeping your code consistent.
 ### BEM
@@ -132,6 +129,6 @@ So, don't use ID's
 I read a lot of other style guides and processes surrounding them and borrowed from them:
 - [cssguidelin.es](https://cssguidelin.es/)
 - [Tait brown](http://taitems.github.io/Front-End-Development-Guidelines/)
-- [Brad Frost](http://bradfrost.com/blog/post/frontend-guidelines-exercise
+- [Brad Frost](http://bradfrost.com/blog/post/frontend-guidelines-exercise)
   - [isobar](https://isobar-us.github.io/code-standards/)
   - [gitlab](https://docs.gitlab.com/ee/development/fe_guide/style_guide_scss.html)

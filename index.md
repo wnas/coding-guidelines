@@ -6,3 +6,4 @@ We have a couple of coding guidelines
 - [JavaScript](javascript.md)
 
 - [Common sense](common.md)
+- [supported browsers](support.md)
