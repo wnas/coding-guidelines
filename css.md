@@ -7,11 +7,13 @@ A list of tips, not in the best order...
 
 ### Don't style html elements
 Other than global setting, using html elements in your selector is a bad idea.
+
 **Bad code**
 ```
 button.button {}
 ```
 this will tie your code down as it can only work on a button, making it inflexible.
+
 **Good code**
 ```
 .button {}
@@ -29,6 +31,7 @@ or you can set the html element you expect in comments, if you think that it wil
 
 ### Naming things
 Choosing the right name for your class is one of the hardest things to do. Choose wisely, it will reduce the amount of phone calls you will receive while on holiday.
+
 **Bad code**
 ```
 // don't do this as it could become out of date
@@ -54,6 +57,7 @@ Choosing the right name for your class is one of the hardest things to do. Choos
 
 ### Nesting
 SCSS let's you nest selectors, which is something you should avoid if you can.
+
 **Bad code**
 ```
 .foo {
@@ -130,5 +134,5 @@ I read a lot of other style guides and processes surrounding them and borrowed f
 - [cssguidelin.es](https://cssguidelin.es/)
 - [Tait brown](http://taitems.github.io/Front-End-Development-Guidelines/)
 - [Brad Frost](http://bradfrost.com/blog/post/frontend-guidelines-exercise)
-  - [isobar](https://isobar-us.github.io/code-standards/)
-  - [gitlab](https://docs.gitlab.com/ee/development/fe_guide/style_guide_scss.html)
+- [isobar](https://isobar-us.github.io/code-standards/)
+- [gitlab](https://docs.gitlab.com/ee/development/fe_guide/style_guide_scss.html)
